@@ -13,6 +13,7 @@ Abandoned Carts
 
 Ajax Cart
 *********
+https://github.com/omnipartners/m1-ajax-add-to-cart 
 
 Cron Scheduling
 ***************
